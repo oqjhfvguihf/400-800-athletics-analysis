@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+top1000_raw_data.csv
+top1000_clean.csv
+possible_transfers.csv
+possible_transfers_results.csv
